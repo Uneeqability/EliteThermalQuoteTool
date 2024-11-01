@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "functions": {
+    "api/fetchPropertyDetails.ts": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "APIFY_TOKEN": "@apify_token"
+  }
+}
